@@ -47,7 +47,7 @@ yourserver.cloudy.so
 console.cloudy.so/yourserver
 
 ```
-![ScreenShot](https://raw.github.com/Ansterd/nebula/master/console1.jpg)
+![ScreenShot](https://raw.github.com/Ansterd/nebula/master/img/console1.jpg)
 
 <br/>
 
@@ -59,7 +59,7 @@ console.cloudy.so/yourserver
 file.cloudy.so
 
 ```
-![ScreenShot](https://raw.github.com/Ansterd/nebula/master/ftp2.jpg)
+![ScreenShot](https://raw.github.com/Ansterd/nebula/master/img/ftp2.jpg)
 
 <br/>
 
