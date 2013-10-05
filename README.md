@@ -5,10 +5,6 @@ nebula
 Welcome!, **_Nebula_** is cloudy hosting service for you
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Application Installed
 
@@ -18,10 +14,6 @@ Software | Version
 *Java* | JDK 1.7
 *Web* | Apache 2, Tomcat 7, PHP 5.3.10
 
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -47,10 +39,6 @@ yourserver.cloudy.so
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## SSH
 
@@ -61,10 +49,6 @@ console.cloudy.so/yourserver
 
 ```
 
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -79,10 +63,6 @@ file.cloudy.so
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Todo
 
@@ -92,7 +72,6 @@ file.cloudy.so
 
 - **SSH with HTTPS** for Security
 
-<br/>
 <br/>
 <br/>
 
