@@ -6,12 +6,17 @@ Welcome!, **_Nebula_** is cloudy hosting service for you
 
 
 
-## Application as a service
+
+
+## Application Installed
 
 Software | Version
-OS | Ubuntu Server 12.04 64bit
-Java | JDK 1.7
-Web | Apache 2, Tomcat 7, PHP 5.3.10
+--- | --- 
+*OS* | Ubuntu Server 12.04 64bit
+*Java* | JDK 1.7
+*Web* | Apache 2, Tomcat 7, PHP 5.3.10
+
+
 
 
 
@@ -19,18 +24,25 @@ Web | Apache 2, Tomcat 7, PHP 5.3.10
 
 
 ```
+
 yourserver.cloudy.so
-```
-
-
-###Web Application Root for Apache, Tomcat, PHP
 
 
 ```
+
+#####Web Application Root for Apache, Tomcat, PHP
+=================================================
+
+
+```
+
 /var/www
+
 ```
 
-**Warning : We don't support PORT _8080_**
+**Warning** : We don't support PORT **_8080_**
+
+
 
 
 
@@ -38,15 +50,24 @@ yourserver.cloudy.so
 
 
 ```
+
 console.cloudy.so/yourserver
+
 ```
+
+
+
+
 
 ## FTP
 
 
 ```
+
 file.cloudy.so
+
 ```
+
 
 
 
