@@ -14,10 +14,10 @@ Software | Version
 *OS* | Ubuntu Server 12.04 x64
 *Java* | JDK 1.7
 *Web* | Apache 2, Tomcat 7, PHP 5.3.10
-*ssh* | open-ssh server
-*ftp* | vsftpd
+*Ssh* | open-ssh server
+*Ftp* | vsftpd
 
-*Warning* : We didn't install mysql, because of password configuration
+**Warning** : We didn't install **_mysql_** because of password configuration
 
 <br/>
 
