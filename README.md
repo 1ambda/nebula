@@ -27,11 +27,9 @@ Software | Version
 
 yourserver.cloudy.so
 
-
 ```
 
 #####Web Application Root for Apache, Tomcat, PHP
-=================================================
 
 
 ```
