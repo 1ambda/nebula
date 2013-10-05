@@ -47,6 +47,8 @@ yourserver.cloudy.so
 console.cloudy.so/yourserver
 
 ```
+![alt text](http://github.com/Ansterd/nebula/blob/master/img/console1.jpg)
+![alt text](https://github.com/Ansterd/nebula/blob/master/img/console1.jpg)
 
 <br/>
 
