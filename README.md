@@ -11,7 +11,7 @@ Welcome!, **_Nebula_** is cloudy hosting service for you
 
 Software | Version
 --- | --- 
-*OS* | Ubuntu Server 12.04 64bit
+*OS* | Ubuntu Server 12.04 x64
 *Java* | JDK 1.7
 *Web* | Apache 2, Tomcat 7, PHP 5.3.10
 
