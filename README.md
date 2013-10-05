@@ -47,11 +47,6 @@ yourserver.cloudy.so
 console.cloudy.so/yourserver
 
 ```
-![ScreenShot](http://github.com/Ansterd/nebula/blob/master/img/console1.jpg)
-![ScreenShot](https://github.com/Ansterd/nebula/blob/master/img/console1.jpg)
-![ScreenShot](http://raw.github.com/Ansterd/nebula/master/img/console1.jpg)
-![ScreenShot](https://raw.github.com/Ansterd/nebula/master/img/console1.jpg)
-![ScreenShot](https://raw.github.com/Ansterd/nebula/master/console1.jpg)
 ![ScreenShot](https://raw.github.com/Ansterd/nebula/master/console1.jpg)
 
 <br/>
@@ -64,6 +59,7 @@ console.cloudy.so/yourserver
 file.cloudy.so
 
 ```
+![ScreenShot](https://raw.github.com/Ansterd/nebula/master/ftp2.jpg)
 
 <br/>
 
