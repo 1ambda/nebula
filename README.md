@@ -2,7 +2,7 @@ nebula
 ======
 
 
-Welcome!, **_[Nebula](http://www.cloudy.so)_** is cloudy hosting service for you
+Welcome!, [Nebula](http://www.cloudy.so) is cloudy hosting service for you
 <br/>
 <br/>
 <br/>
