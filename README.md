@@ -67,6 +67,24 @@ file.cloudy.so
 
 <br/>
 
+## MYSQL
+
+```
+
+mysql.cloudy.so
+
+```
+
+You must need `id` and `password`
+
+```
+ID : admin
+PW : nebula
+```
+
+<br/>
+
+
 ## Todo
 
 - **noVNC** for ubuntu desktop
