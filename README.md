@@ -75,13 +75,22 @@ mysql.cloudy.so
 
 ```
 
-You must need `id` and `password`
+** You must need `id` and `password` **
+
+
+<br/>
+![ScreenShot](https://raw.github.com/Ansterd/nebula/master/img/mysql1.jpg)
+<br/>
 
 ```
 ID : admin
 PW : nebula
 ```
-
+<br/>
+![ScreenShot](https://raw.github.com/Ansterd/nebula/master/img/mysql2-1.jpg)
+<br/>
+<br/>
+![ScreenShot](https://raw.github.com/Ansterd/nebula/master/img/mysql2.jpg)
 <br/>
 
 
